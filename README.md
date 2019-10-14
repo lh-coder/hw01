@@ -1,8 +1,13 @@
 # hw01
 
-<h3> **About me**
+<h3> 
 
-<h6> My name is **Lindsay Hurth**. I am a second year MPP student at the *Harris School for Public Policy*. My work focuses on environmental and climate change policy with a focus on equity issues. 
+**About me**
+
+<h6> My name is 
+**Lindsay Hurth**. I am a second year MPP student at the 
+*Harris School for Public Policy*. 
+My work focuses on environmental and climate change policy with a focus on equity issues. 
 
 When I am not digging into research or battling code, I enjoy the following activities: 
 
